@@ -1,10 +1,9 @@
 import React from "react";
-
+import Page1 from "./components/Page1";
 function App() {
   return (
-    <div className="">
-
-hello world
+    <div>
+      <Page1/>
     </div>
   );
 }
