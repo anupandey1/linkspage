@@ -4,4 +4,32 @@
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
+  padding-top: 5px;
+  padding-bottom: 50px;
+}
+
+.linkBox {
+  width: 350px;
+  height: 370px;
+  left: 168px;
+  top: 310px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(108, 23, 205, 0.5) 0%,
+    rgba(7, 241, 204, 0.5) 100%
+  );
+  box-shadow: 4px 4px 10px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+
+.glass {
+  width: 90%;
+  background: linear-gradient(
+    148.79deg,
+    rgba(7, 197, 200, 0.4) 5.08%,
+    rgba(64, 13, 121, 0.4) 81.13%
+  );
+  box-shadow: 5px 5px 25px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
 }
