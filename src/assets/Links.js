@@ -45,7 +45,7 @@ export default [
       },
       {
         url: "https://res.cloudinary.com/ash123/image/upload/v1657785027/HackOdisha2022/fb_fags0g.svg",
-        text: "Fackebook",
+        text: "Facebook",
       },
       {
         url: "https://res.cloudinary.com/ash123/image/upload/v1657785029/HackOdisha2022/twitter_g5naok.svg",
